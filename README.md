@@ -1,17 +1,49 @@
-# Flutter_Ui_screens
-# Developed_by_Aya Ibrahime Alastal
+# Flutter UI Project – Auth Screens by Aya Ibrahim Alastal
 
-A new Flutter project.
+This Flutter project showcases 3 clean and responsive UI screens designed for a mobile authentication flow. Developed as part of Aya Ibrahim Alastal’s practice in Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screens:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Home Screen**  
+   - Simple landing page  
+   - Two buttons:  
+     - Navigate to Sign In  
+     - Navigate to Sign Up
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Sign In Screen**  
+   - Email and password input fields  
+   - Sign In button  
+   - Clean layout using TextFields and Column
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Sign Up Screen**  
+   - Name, email, and password fields  
+   - Sign Up button  
+   - Consistent design with Sign In page
+
+---
+
+## 🧰 Technologies Used:
+
+- Flutter & Dart
+- Material Design Widgets
+- Stateless & Stateful Widgets
+- Page Navigation using `Navigator.push`
+- 
+## 👩‍💻 Developed By:
+**Aya Ibrahim Alastal**  
+Flutter Developer – Focused on UI/UX layout and navigation
+
+## 📸 Screenshots:
+
+ 🏠 Home Screen
+![Home](screenshots/home_page.png)
+
+🔐 Sign In Screen
+![Sign In](screenshots/signin_page.png)
+
+📝 Sign Up Screen
+![Sign Up](screenshots/signup_page.png)
+
+
